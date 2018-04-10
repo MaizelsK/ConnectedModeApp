@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectedModeApp", "ConnectedModeApp\ConnectedModeApp.csproj", "{AF0E0C15-0ACA-4865-B5EF-A06527B81BDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF0E0C15-0ACA-4865-B5EF-A06527B81BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0E0C15-0ACA-4865-B5EF-A06527B81BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0E0C15-0ACA-4865-B5EF-A06527B81BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0E0C15-0ACA-4865-B5EF-A06527B81BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B39334A3-21D5-43C4-BD65-E16263FCDD61}
+	EndGlobalSection
+EndGlobal
